@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm YasaNata</h1>
-<h3 align="center">A passionate frontend newbie developer from Indonesia</h3>
+<h3 align="center">SEBERKAS HARAPAN SELALU ADA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasanata&label=Profile%20views&color=0e75b6&style=flat" alt="yasanata" /> </p>
 
-- 🔭 I’m currently working on **parkiran**
+- 🔭 I’m currently working on **PARKIRAN**
 
 - 🌱 I’m currently learning **ITERA**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yasanata@gmail.com**
 
-- ⚡ Fun fact **NewBietol**
+- ⚡ Fun fact **NewBie Mbah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
